@@ -35,7 +35,10 @@ const bardapi = require('bard-api');
 
 const _bard = new bardapi("[SESSION TOKEN HERE]");
 
-const answer = await bard.getAnswer('What is Google Bard?');
+(async () => {
+    const answer = await _bard.getAnswer('What is Google Bard?');
+    console.log(answer); //use response
+})();
 ```
 
 ###### How to obtain SESSION TOKEN:
