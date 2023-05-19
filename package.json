@@ -1,5 +1,5 @@
 {
-  "name": "bardapi",
+  "name": "bard-api",
   "version": "1.0.0",
   "description": "",
   "main": "dist/bundle.node.js",
