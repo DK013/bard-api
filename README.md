@@ -11,7 +11,7 @@ An unofficial JS API module for [Google Bard](https://bard.google.com) for node.
 To install the module, use the following command:
 
 ```bash
-npm install bard-api
+npm install @xelcior/bard-api
 ```
 
 **Browser:**
@@ -25,13 +25,13 @@ Download the package and use the bundle in your script:
 OR use from CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/dk013/bard-api@1.0.0/dist/bard-api.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/DK013/bard-api/dist/bard-api.min.js"></script>
 ```
 
 ## Usage
 
 ```javascript
-const bardapi = require('bard-api');
+const bardapi = require('@xelcior/bard-api');
 
 const _bard = new bardapi("[SESSION TOKEN HERE]");
 
