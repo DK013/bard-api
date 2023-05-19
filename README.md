@@ -1,6 +1,6 @@
 # bard-api
 
-[![NPM Version](https://img.shields.io/npm/v/bard-api.svg)](https://www.npmjs.com/package/bard-api) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-npm-module-name/blob/main/LICENSE)
+[![NPM Version](https://img.shields.io/npm/v/@xelcior/bard-api.svg)](https://www.npmjs.com/package/@xelcior/bard-api) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-npm-module-name/blob/main/LICENSE)
 
 An unofficial JS API module for [Google Bard](https://bard.google.com) for node.js and browser
 
@@ -25,7 +25,7 @@ Download the package and use the bundle in your script:
 OR use from CDN:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/DK013/bard-api/dist/bard-api.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@xelcior/bard-api@1.0.0/dist/bard-api.min.js"></script>
 ```
 
 ## Usage
