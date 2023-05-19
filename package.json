@@ -1,6 +1,6 @@
 {
   "name": "@xelcior/bard-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial JS API module for Google Bard for node.js and browser",
   "main": "dist/bundle.node.js",
   "scripts": {
