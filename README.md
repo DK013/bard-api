@@ -48,6 +48,11 @@ const _bard = new bardapi("[SESSION TOKEN HERE]");
 3. On the left hand side, Go to Cookies > https://bard.google.com
 4. On the right hand side find and copy the value of `__Secure-1PSID` and use it as your **SESSION TOKEN**
 
+## TO-DO
+
+1. Use stream instead of waiting for response to reduce latency
+2. I'd like to automate the process of accuring SESSION TOKEN but since that might need some kind of web crawler to read cookies from user's browser, which IS kinda illeagal, I'd rather not do it. 😅
+
 ## Contribution
 
 Contributions are welcome! Follow the steps below to contribute to this project:
