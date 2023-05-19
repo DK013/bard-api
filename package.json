@@ -1,7 +1,7 @@
 {
   "name": "bard-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Unofficial JS API module for Google Bard for node.js and browser",
   "main": "dist/bundle.node.js",
   "scripts": {
     "start": "node index.js",
