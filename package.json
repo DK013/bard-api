@@ -10,6 +10,14 @@
     "build:node": "webpack --config webpack.config.node.js",
     "build": "npm run build:web && npm run build:node"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DK013/bard-api"
+  },
+  "homepage": "https://github.com/DK013/bard-api/README.md",
+  "bugs": {
+    "url": "https://github.com/DK013/bard-api/issues"
+  },
   "keywords": [
     "bard",
     "google bard",
